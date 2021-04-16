@@ -1,0 +1,6 @@
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/rakyll/statik v0.1.7
+## explicit
+github.com/rakyll/statik/fs
